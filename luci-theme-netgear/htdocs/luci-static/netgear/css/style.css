@@ -1664,7 +1664,7 @@ header > .container > .brand-hostname {
     }
 }
 
-@media screen and (max-width: 525px) {
+@media screen and (max-width: 550px) {
     fieldset {
         padding: 1rem;
         margin: 1rem 0 0 0;
